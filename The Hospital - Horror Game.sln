@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Hospital - Horror Game", "Assembly-CSharp-firstpass.csproj", "{9574243F-997E-1056-8952-6C610FEC246F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Hospital - Horror Game", "Assembly-CSharp.csproj", "{F7E06972-D00C-B6D0-320E-D6FE761ACFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Hospital - Horror Game", "Assembly-CSharp-Editor-firstpass.csproj", "{A36A4676-F829-935B-23CC-89913030F73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9574243F-997E-1056-8952-6C610FEC246F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9574243F-997E-1056-8952-6C610FEC246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9574243F-997E-1056-8952-6C610FEC246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9574243F-997E-1056-8952-6C610FEC246F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E06972-D00C-B6D0-320E-D6FE761ACFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E06972-D00C-B6D0-320E-D6FE761ACFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E06972-D00C-B6D0-320E-D6FE761ACFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E06972-D00C-B6D0-320E-D6FE761ACFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36A4676-F829-935B-23CC-89913030F73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36A4676-F829-935B-23CC-89913030F73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36A4676-F829-935B-23CC-89913030F73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36A4676-F829-935B-23CC-89913030F73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
